@@ -1,29 +1,448 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
-<h1 align="center">Hi 👋, I'm Ritiesh Bhatia</h1>
-<h3 align="center">A passionate android developer from India</h3>
-<img align="right" alt="Android" width="400" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png">
+````markdown
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritz-17&label=Profile%20views&color=0e75b6&style=flat" alt="ritz-17" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/bhatiaritiesh" target="blank"><img src="https://img.shields.io/twitter/follow/bhatiaritiesh?logo=twitter&style=for-the-badge" alt="bhatiaritiesh" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ritiesh%20Bhatia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Application%20Security%20Engineer%20%7C%20DevSecOps&descAlignY=58&descSize=20" />
 
-- 🌱 I’m currently learning **Android development, Firebase**
+<a href="https://github.com/ritz-17">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Application+Security+Engineer;DevSecOps+%7C+SAST+%7C+SCA+%7C+DAST;Security+Automation+%7C+CI%2FCD;Breaking+Applications+Before+Attackers+Do+%F0%9F%94%90" />
+</a>
 
-- 💬 Ask me about **Java, Kotlin**
+<br/>
 
-- 📫 How to reach me **ritieshbhatia@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=ritz-17&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 
-- ⚡ Fun fact **I think I am funny**
+<a href="https://github.com/ritz-17?tab=followers">
+<img src="https://img.shields.io/github/followers/ritz-17?label=Followers&style=for-the-badge&color=0ea5e9" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhatiaritiesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhatiaritiesh" height="30" width="40" /></a>
-<a href="https://instagram.com/ritiesh_bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritiesh_bhatia" height="30" width="40" /></a>
+</div>
+
+---
+
+## 👋 About Me
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Hi, I'm Ritiesh Bhatia 👋                                │
+│                                                             │
+│  🔐 Application Security Engineer                          │
+│  🛡️  Cybersecurity & DevSecOps                             │
+│  ⚙️  Security Automation & CI/CD                           │
+│  ☁️  Cloud & Infrastructure Security                       │
+│                                                             │
+│  I build security into the software development lifecycle │
+│  instead of waiting until the application reaches         │
+│  production.                                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+````
+
+Currently working as an **Application Security Engineer at Tata Advanced Systems Limited**, focusing on integrating security into development and CI/CD workflows.
+
+My work revolves around:
+
+* 🔎 **SAST** — Static Application Security Testing
+* 📦 **SCA** — Software Composition Analysis
+* 🌐 **DAST** — Dynamic Application Security Testing
+* 🧪 **Secure Code Review**
+* ⚙️ **DevSecOps & CI/CD Security**
+* 🤖 **Security Automation**
+* 🛡️ **Vulnerability Management**
+* ☁️ **Cloud & Infrastructure Security**
+* 🔐 **Application & API Security**
+
+---
+
+## 🏢 Professional Experience
+
+### 🔐 Application Security Engineer
+
+**Tata Advanced Systems Limited**
+
+```text
+Application Security
+        │
+        ├── SAST ───────────────► Source Code Security
+        │
+        ├── SCA ────────────────► Dependency Security
+        │
+        ├── DAST ───────────────► Runtime Security
+        │
+        ├── Secure Code Review ─► Manual Analysis
+        │
+        └── DevSecOps ──────────► Security Automation
+                                      │
+                                      ▼
+                              CI/CD Integration
+```
+
+<details>
+<summary><b>🔎 What I Work With</b></summary>
+
+<br>
+
+**Application Security**
+
+* SAST
+* DAST
+* SCA
+* Secure Code Review
+* Vulnerability Assessment
+* False Positive Analysis
+* Remediation Guidance
+* OWASP-based security testing
+
+**DevSecOps**
+
+* CI/CD security integration
+* Jenkins
+* Security automation
+* Automated vulnerability scanning
+* Pipeline security
+* Security gates
+
+**Security Tooling**
+
+* HCL AppScan
+* Burp Suite
+* Checkmarx
+* Semgrep
+* OWASP Dependency-Check
+* Nexus
+* Nmap
+
+**Infrastructure**
+
+* Linux
+* Docker
+* Kubernetes
+* AWS
+* Networking fundamentals
+* Infrastructure security
+
+</details>
+
+---
+
+## 🛠️ Security Arsenal
+
+### 🔐 Application Security
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HCL%20AppScan-1F2937?style=for-the-badge&logo=hcl&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Checkmarx-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### ⚙️ DevSecOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritz-17&show_icons=true&locale=en" alt="ritz-17" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritz-17&" alt="ritz-17" /></p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+</p>
+
+### 💻 Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</p>
+
+---
+
+## 🧠 Security Domains
+
+```text
+                     ┌─────────────────────┐
+                     │   APPLICATION SEC   │
+                     └──────────┬──────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             ▼                  ▼                  ▼
+          SAST                 SCA                DAST
+             │                  │                  │
+       Source Code        Dependencies        Running App
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ▼
+                       Vulnerability Mgmt
+                                │
+                                ▼
+                         Secure SDLC
+                                │
+                                ▼
+                          DevSecOps
+                                │
+                    ┌───────────┴───────────┐
+                    ▼                       ▼
+                  CI/CD                  CLOUD
+                    │                       │
+                 Jenkins                 AWS
+                    │                       │
+                    └───────────┬───────────┘
+                                ▼
+                       Security Automation
+```
+
+---
+
+## 🚀 What I'm Currently Building
+
+<details>
+<summary><b>⚙️ DevSecOps Security Pipeline</b></summary>
+
+<br>
+
+Building security-focused CI/CD pipelines integrating:
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+ CI/CD Pipeline
+    │
+    ├──── SAST
+    │
+    ├──── SCA
+    │
+    ├──── Secret Detection
+    │
+    ├──── IaC Security
+    │
+    └──── Container Security
+             │
+             ▼
+       Security Gate
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+     PASS          FAIL
+       │           │
+       ▼           ▼
+   Deployment   Remediation
+```
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud Security</b></summary>
+
+<br>
+
+Currently expanding into:
+
+* AWS IAM
+* VPC security
+* Security Groups
+* CloudTrail
+* GuardDuty
+* Security Hub
+* AWS Inspector
+* Container security
+* Kubernetes security
+* Infrastructure as Code security
+
+</details>
+
+<details>
+<summary><b>🔍 Application & API Security</b></summary>
+
+<br>
+
+Areas of interest:
+
+* OWASP Top 10
+* OWASP API Security Top 10
+* Authentication & Authorization
+* JWT security
+* SQL Injection
+* XSS
+* SSRF
+* IDOR / BOLA
+* API security testing
+* Burp Suite
+* Threat Modeling
+
+</details>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ritz-17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritz-17&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritz-17&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 My Security Journey
+
+```text
+Android Development
+        │
+        ▼
+   Java / Kotlin
+        │
+        ▼
+ Software Development
+        │
+        ▼
+    Cybersecurity
+        │
+        ▼
+ Application Security
+        │
+        ▼
+ SAST / DAST / SCA
+        │
+        ▼
+     DevSecOps
+        │
+        ▼
+ Cloud & Infrastructure Security
+        │
+        ▼
+     Security Engineering
+```
+
+> From building applications → to securing them → to securing the pipelines that build them.
+
+---
+
+## 🎯 Current Focus
+
+| Area                    | Focus                                  |
+| ----------------------- | -------------------------------------- |
+| 🔐 AppSec               | SAST · DAST · SCA · Secure Code Review |
+| ⚙️ DevSecOps            | CI/CD · Jenkins · Security Automation  |
+| 🌐 API Security         | REST APIs · JWT · OWASP API Top 10     |
+| ☁️ Cloud Security       | AWS · IAM · VPC · Security Services    |
+| 🐳 Container Security   | Docker · Kubernetes                    |
+| 🏗️ IaC Security        | Terraform · Infrastructure Security    |
+| 🧠 Security Engineering | Threat Modeling · Secure SDLC          |
+
+---
+
+## 📚 Knowledge Base
+
+<details>
+<summary><b>🔐 Application Security</b></summary>
+
+* OWASP Top 10
+* Secure Coding
+* SAST
+* DAST
+* SCA
+* Vulnerability Management
+* Secure Code Review
+* Threat Modeling
+* Secure SDLC
+
+</details>
+
+<details>
+<summary><b>🌐 Web & API Security</b></summary>
+
+* HTTP / HTTPS
+* REST APIs
+* Authentication
+* Authorization
+* JWT
+* SQL Injection
+* XSS
+* SSRF
+* IDOR / BOLA
+* Business Logic Testing
+* OWASP API Security Top 10
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+
+* AWS
+* IAM
+* VPC
+* Security Groups
+* CloudTrail
+* GuardDuty
+* Security Hub
+* Inspector
+* Docker
+* Kubernetes
+* Terraform
+
+</details>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ritieshbhatia@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ritiesh-bhatia/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ritz-17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Secure Code. Secure Cloud. Secure Everything.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+
+</div>
+```
