@@ -1,26 +1,3 @@
-````markdown
-<!-- ===================== HEADER ===================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ritiesh%20Bhatia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Application%20Security%20Engineer%20%7C%20DevSecOps&descAlignY=58&descSize=20" />
-
-<a href="https://github.com/ritz-17">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Application+Security+Engineer;DevSecOps+%7C+SAST+%7C+SCA+%7C+DAST;Security+Automation+%7C+CI%2FCD;Breaking+Applications+Before+Attackers+Do+%F0%9F%94%90" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ritz-17&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-
-<a href="https://github.com/ritz-17?tab=followers">
-<img src="https://img.shields.io/github/followers/ritz-17?label=Followers&style=for-the-badge&color=0ea5e9" />
-</a>
-
-</div>
-
----
-
 ## 👋 About Me
 
 ```text
