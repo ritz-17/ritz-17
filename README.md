@@ -17,7 +17,7 @@
 └─────────────────────────────────────────────────────────────┘
 ````
 
-Currently working as an **Application Security Engineer at Tata Advanced Systems Limited**, focusing on integrating security into development and CI/CD workflows.
+Currently working as an **Executive at Tata Advanced Systems Limited** in **Application Security**, focusing on integrating security into development and CI/CD workflows.
 
 My work revolves around:
 
